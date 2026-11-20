@@ -46,7 +46,7 @@ Desk-style pitches. Each one has a notebook that runs end to end in Google Colab
 
 | # | Idea | Asset class | Status | Notebook |
 |---|---|---|---|---|
-| 01 | [S&P 500 volatility premium: the seller is paid, and survivorship bias hides the real cost of correlation](trade-ideas/01-long-correlation/) | Equity derivatives | Results published; forward test running | [Open in Colab](https://colab.research.google.com/github/Jojolap1/quant-finance-projects/blob/main/trade-ideas/01-long-correlation/long_correlation_trade_idea.ipynb) |
+| 01 | [S&P 500 volatility premium: the seller is paid, and survivorship bias hides the real cost of correlation](trade-ideas/01-long-correlation/) | Equity derivatives | Results published; forward test running | [Open in Colab](https://colab.research.google.com/github/JonathanPhungESCP/quant-finance-projects/blob/main/trade-ideas/01-long-correlation/long_correlation_trade_idea.ipynb) |
 
 ---
 
